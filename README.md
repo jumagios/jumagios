@@ -17,7 +17,7 @@ I'm Juan, a future data engineer from Buenos Aires, Argentina.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vsc" src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)]" />
   <img alt="JS" src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)]" />
-  <img alt="Jira" src="https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/" />
+  <img alt="Jira" src="https://badgen.net/badge/icon/jira?icon=jira&label" />
   <img alt="Terminal" src="https://badgen.net/badge/icon/terminal?icon=terminal&label" />
 </p>
 
