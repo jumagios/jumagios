@@ -4,6 +4,8 @@
 I'm Juan, a future data engineer from Buenos Aires, Argentina.
 </p>
 
+---
+
 <h3>Things I code with</h3>
 
 <p>
