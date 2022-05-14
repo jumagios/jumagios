@@ -33,6 +33,8 @@ I'm Juan, a future data engineer from Buenos Aires, Argentina.
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
 </p>
 
+---
+
 <h3>Places where i spend time learning</h3>
 
 <p>
@@ -51,7 +53,7 @@ I'm Juan, a future data engineer from Buenos Aires, Argentina.
 
 </p>
 
-
+---
 
 
   
