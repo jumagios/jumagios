@@ -6,7 +6,7 @@ I'm Juan, a future data engineer from Buenos Aires, Argentina.
 
 <h3>Things I code with</h3>
 
-
+<p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -16,10 +16,10 @@ I'm Juan, a future data engineer from Buenos Aires, Argentina.
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vsc" src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)]" />
-  [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-  [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
-  ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-
+  <img alt="JS" src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)]" />
+  <img alt="Jira" src="https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/" />
+  <img alt="Terminal" src="https://badgen.net/badge/icon/terminal?icon=terminal&label" />
+</p>
 
 
 
