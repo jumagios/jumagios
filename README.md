@@ -53,9 +53,6 @@ I'm Juan, a future data engineer from Buenos Aires, Argentina.
 
 </p>
 
----
-
-<!--START_SECTION:activity-->
 
 ---
 
